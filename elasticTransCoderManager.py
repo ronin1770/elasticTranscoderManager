@@ -1,7 +1,7 @@
 #File: elasticTransCoderManager.py
 #Description: This file allows you to create elasticTrancoder Pipelines / Jobs in order to process Video Transcoding jobs
 #Author: Farhan Munir
-#Created: Nov-21-2020
+#Created: Nov-29-2020
 #Website: https://ronin1770.com
 #Patreon: https://www.patreon.com/farhanmunir
 

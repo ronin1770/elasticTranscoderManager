@@ -3,6 +3,7 @@
 #Author: Farhan Munir
 #Created: Nov-21-2020
 #Website: https://ronin1770.com
+#Patreon: https://www.patreon.com/farhanmunir
 
 import os
 import sys
